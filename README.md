@@ -36,7 +36,7 @@ Proposed research question
 # # Task to be performed by each member
 5. Implement and apply One machine learning method for prediction (regression or classification)   6/03/2021 - 27/03/2021
 
-* Proposed method is using multivariate forecasting
+* Proposed method for this is using multivariate forecasting
 
 
 
