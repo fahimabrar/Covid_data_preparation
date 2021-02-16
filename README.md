@@ -6,13 +6,13 @@ Deadline for Submission : 24/05/2021
 
 * Collect relevant data sets :
 
-* Covid-fci-data
+* Covid-fci-data  # (By Abrar)
 
-* gdp data
+* gdp data      # (by Abrar) 
 
-* land-area data
+* land-area data # (by Ravinder)
 
-* population data
+* population data # (by Eunice)
 
 *
 
@@ -22,11 +22,11 @@ Deadline for Submission : 24/05/2021
 2. Reaserch questions to be answered by our analysis :
 Proposed research question 
 
-* Predicting the relationship between policy implementation and Covid
+* Predicting the relationship between policy implementation and Covid.   #(by Ravinder)
 
-* Predicting the dialy spread of Covid
+* Predicting the dialy spread of Covid.  #(by Abrar) 
 
-* Predicting the dialy spread of Covid and Financail measures taken by countries
+* Predicting the dialy spread of Covid and Financail measures taken by countries.  #(by Eunice)
 
 *
 
@@ -38,11 +38,11 @@ Proposed research question
 
 3. Data preparation and cleaning 28/01/2021  - 18/02/2021
  
- * Clean data 
+ * Clean data.  # (by Abrar)
  
- * Drop irrelevant columns
+ * Drop irrelevant columns. # (by Eunice)
  
- * Merge datasets to form one data
+ * Merge datasets to form one data. # (by Ravinder)
  
  *
  
