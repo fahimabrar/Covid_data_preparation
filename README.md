@@ -2,8 +2,16 @@
 Deadline for Submission : 24/05/2021
 
 # #Task to be perfomed by Shared group effort
-Data Collection : from 13/01/2021 - 27/01/2021
-1. Collect relevant data sets
+1.Data Collection : from 13/01/2021 - 27/01/2021
+* Collect relevant data sets :
+Covid-fci-data
+
+gdp data
+
+land-area data
+
+population data
+
 
 2. Reaserch questions to be answered by our analysis :
 Proposed research question 
@@ -45,6 +53,8 @@ Proposed research question
 
 
 7. Independently compare, discuss and evaluate shared results 29/03/2021  - 05/04/2021
+
+* The report should provide an " Authorship Contribution Statement ". This statment should clarify how data generation and / or analyses made by other group has contributed to the project.
 
 
 
