@@ -3,6 +3,7 @@ Deadline for Submission : 24/05/2021
 
 # #Task to be perfomed by Shared group effort
 1.Data Collection : from 13/01/2021 - 27/01/2021
+
 * Collect relevant data sets :
 
 * Covid-fci-data
@@ -12,6 +13,10 @@ Deadline for Submission : 24/05/2021
 * land-area data
 
 * population data
+
+*
+
+*
 
 
 2. Reaserch questions to be answered by our analysis :
@@ -23,6 +28,12 @@ Proposed research question
 
 * Predicting the dialy spread of Covid and Financail measures taken by countries
 
+*
+
+*
+
+*
+
 
 
 3. Data preparation and cleaning 28/01/2021  - 18/02/2021
@@ -32,6 +43,12 @@ Proposed research question
  * Drop irrelevant columns
  
  * Merge datasets to form one data
+ 
+ *
+ 
+ *
+ 
+ *
  
 
 4. Exploratory data analysis   19/02/2021 -  05/03/2021
@@ -47,15 +64,29 @@ Proposed research question
 
 * Proposed method for this is using multivariate forecasting
 
+*
+
+*
+
 
 
 6. Implement and apply One High Performance Computational technique for distributed data analysis (Mapreduce, or HDFS & Yarn, or Spark or DDA in Python etc)    28/03/2021 - 18/03/2021
+
+*
+
+*
+
+*
 
 
 
 7. Independently compare, discuss and evaluate shared results 29/03/2021  - 05/04/2021
 
 * The report should provide an " Authorship Contribution Statement ". This statment should clarify how data generation and / or analyses made by other group has contributed to the project.
+
+*
+
+*
 
 
 
