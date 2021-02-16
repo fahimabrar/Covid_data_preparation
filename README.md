@@ -4,13 +4,14 @@ Deadline for Submission : 24/05/2021
 # #Task to be perfomed by Shared group effort
 1.Data Collection : from 13/01/2021 - 27/01/2021
 * Collect relevant data sets :
-Covid-fci-data
 
-gdp data
+* Covid-fci-data
 
-land-area data
+* gdp data
 
-population data
+* land-area data
+
+* population data
 
 
 2. Reaserch questions to be answered by our analysis :
