@@ -1,92 +1,24 @@
-# CS5811
-Deadline for Submission : ............24/05/2021
+#### Data preaparatin for Covid Spred time series analysis
 
-# #Task to be perfomed by Shared group effort
-1.Data Collection : ....................from 13/01/2021 - 27/01/2021
+##### N:B: 
+- this master data is collected from several sources
+- Please go to the original link to see the liscence of the original dataset
 
-* Collect relevant data sets :
+##### Original Data Source
+- Bing covid data - [Microsoft Bing](https://github.com/microsoft/Bing-COVID-19-Data/tree/master/data)
+- Air Passenger data - [The OPENSKY Network 2020](https://zenodo.org/record/4485741)
+- Airport data - [Open Flights](https://openflights.org/data.html)
+- Financial Measure data - [World Bank](https://datacatalog.worldbank.org/dataset/covid-19-finance-sector-related-policy-responses)
+- Population data - [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- Land Area data - [World Bank](https://data.worldbank.org/indicator/AG.LND.TOTL.K2)
+- GDP data - [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
-* Covid-fci-data  # (By Abrar)
+##### Data Description
+- This Master dataset is a time series dataset of covid spread along with number of flights landed on a particular country
+- It also has demographic feature of the country
 
-* gdp data      # (by Abrar) 
-
-* land-area data # (by Ravinder)
-
-* population data # (by Eunice)
-
-*
-
-*
-
-
-2. Reaserch questions to be answered by our analysis :
-Proposed research question 
-
-* Predicting the relationship between policy implementation and Covid.   #(by Ravinder)
-
-* Predicting the dialy spread of Covid.  #(by Abrar) 
-
-* Predicting the dialy spread of Covid and Financail measures taken by countries.  #(by Eunice)
-
-*
-
-*
-
-*
-
-
-
-3. Data preparation and cleaning : ...................... 28/01/2021  - 18/02/2021
- 
- * Clean data.  # (by Abrar)
- 
- * Drop irrelevant columns. # (by Eunice)
- 
- * Merge datasets to form one data. # (by Ravinder)
- 
- *
- 
- *
- 
- *
- 
-
-4. Exploratory data analysis : .........................   19/02/2021 -  05/03/2021
-
-*
-
-*
-
-
-
-# # Task to be performed by each member
-5. Implement and apply One machine learning method for prediction (regression or classification) : ..................   6/03/2021 - 27/03/2021
-
-* Proposed method for this is using multivariate forecasting
-
-*
-
-*
-
-
-
-6. Implement and apply One High Performance Computational technique for distributed data analysis (Mapreduce, or HDFS & Yarn, or Spark or DDA in Python etc) : ........................    28/03/2021 - 18/03/2021
-
-*
-
-*
-
-*
-
-
-
-7. Independently compare, discuss and evaluate shared results : ................  29/03/2021  - 05/04/2021
-
-* The report should provide an " Authorship Contribution Statement ". This statment should clarify how data generation and / or analyses made by other group has contributed to the project.
-
-*
-
-*
-
-
+##### Data Preparation
+- In data preparation folder all the jupyter notebook uploaded that used for data preparation, cleaning, merging etc. 
+- The notebook written with enough commenting and doucumentation
+- Some dataset are more than 1 GB, so for memory limit of github, we cannot upload. But link to original dataset provided
 
