@@ -1,8 +1,10 @@
 #### Data preaparatin for Covid Spred time series analysis
 
-##### N:B: 
+##### Notes: 
 - this master data is collected from several sources
 - Please go to the original link to see the liscence of the original dataset
+- For latest data download the latest dataset from the given link, some data updated daily
+- In data preparation folder all the notebooks can be used for data preparation
 
 ##### Original Data Source
 - Bing covid data - [Microsoft Bing](https://github.com/microsoft/Bing-COVID-19-Data/tree/master/data)
