@@ -27,7 +27,6 @@
 |DeathsChange| Change of death count from the previous day |
 |Recovered| Recovered count for the region |
 |RecoveredChange| Change of recovered case counts from the previous day |
-
 |Country Name| Full name of the country |
 |Number of Flights| Number of flights landed on that day |
 |GDP | Country’s gross domestic product |
