@@ -17,6 +17,26 @@
 - This Master dataset is a time series dataset of covid spread along with number of flights landed on a particular country
 - It also has demographic feature of the country
 
+
+|Column header | Description | 
+|---|---|
+|Updated| Datetime in UTC |
+|Confirmed | Confirmed case count for the region |
+|ConfirmedChange| Change of confirmed case count from the previous day |
+|Deaths| Death case count for the region |
+|DeathsChange| Change of death count from the previous day |
+|Recovered| Recovered count for the region |
+|RecoveredChange| Change of recovered case counts from the previous day |
+
+|Country Name| Full name of the country |
+|Number of Flights| Number of flights landed on that day |
+|GDP | Country’s gross domestic product |
+|Land Area| Country’s land area in sq. km |
+|Population| Country’s total population |
+|Income Level| Income level of the country|
+
+
+
 ##### Data Preparation
 - In data preparation folder all the jupyter notebook uploaded that used for data preparation, cleaning, merging etc. 
 - The notebook written with enough commenting and doucumentation
