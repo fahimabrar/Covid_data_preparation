@@ -1,4 +1,4 @@
-#### Data preaparatin for Covid Spred time series analysis
+#### Data preaparatin for Covid Spread time series analysis
 
 ##### Notes: 
 - this master data is collected from several sources
